@@ -20,23 +20,15 @@
 * https://img.scdn.io (单张图片连续60天未访问则自动清理)
 
 
-## token获取方式
-
-https://github.com/settings/tokens
-
-
-CDN使用方式 `https://cdn.jsdelivr.net/gh/user/repo@version/file`
-
-```
-https://cdn.jsdelivr.net/gh/hoochanlon/img@main/up/p5r_test.jpg
-```
 
 ## picgo配置
 
-
-
 > [!NOTE]  
 > pico vscode，不能直接复制粘贴一步上传到位。因为不是直接调用桌面端现有程序，相当于是一个独立的程序。
+
+
+
+token获取方式：https://github.com/settings/tokens
 
 
 
