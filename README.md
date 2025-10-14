@@ -26,10 +26,9 @@
 > [!NOTE]  
 > pico vscode，不能直接复制粘贴一步上传到位。因为不是直接调用桌面端现有程序，相当于是一个独立的程序。
 
+软件设置同picgo vscode版，token获取方式：https://github.com/settings/tokens
 
-
-token获取方式：https://github.com/settings/tokens
-
+![](https://cdn.jsdelivr.net/gh/hoochanlon/tuchuang@main//up/86cd19f218e1b64528db53c1f8acbd5e.png)
 
 
 ## typora
