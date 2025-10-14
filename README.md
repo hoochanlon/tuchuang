@@ -33,9 +33,7 @@
 
 ## typora
 
-
-
-
+![](https://cdn.jsdelivr.net/gh/hoochanlon/tuchuang@main//up/d4eaabbc7788fd9ee1e78c67cbea3b87.png)
 
 
 [^1]: https://docs.github.com/zh/repositories/working-with-files/managing-large-files/about-large-files-on-github
