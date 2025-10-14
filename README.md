@@ -25,13 +25,16 @@
 
 ## picgo配置
 
-> [!NOTE]  
-> pico vscode，不能直接复制粘贴一步上传到位。因为不是直接调用桌面端现有程序，相当于是一个独立的程序。
-
+> [!IMPORTANT]  
+> pico vscode不能像typora那样复制粘贴就直接上传到GitHub，vscode版相当于是一个独立的程序。
 软件设置同picgo vscode版，token获取方式：https://github.com/settings/tokens
 
 ![](https://cdn.jsdelivr.net/gh/hoochanlon/tuchuang@main//up/86cd19f218e1b64528db53c1f8acbd5e.png)
 
+> [!TIP]
+> picgo时间戳重命名失败注意关闭插件内置的重命名功能。
+
+![](https://cdn.jsdelivr.net/gh/hoochanlon/tuchuang@main//up/20251014210329971.png)
 
 ## typora
 
