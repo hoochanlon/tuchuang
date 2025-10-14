@@ -40,6 +40,36 @@
 
 ![](https://cdn.jsdelivr.net/gh/hoochanlon/tuchuang@main//up/d4eaabbc7788fd9ee1e78c67cbea3b87.png)
 
+## map
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "湖南郴州资兴"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.200, 25.950],
+            [113.200, 25.600],
+            [113.700, 25.600],
+            [113.700, 25.950],
+            [113.200, 25.950]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+```
 
 [^1]: https://docs.github.com/zh/repositories/working-with-files/managing-large-files/about-large-files-on-github
 [^2]: https://squoosh.app
