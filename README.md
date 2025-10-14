@@ -1,4 +1,4 @@
-# tuchuang
+# 图床
 
 > [!CAUTION]  
 > 图床的repo名称不要与站点项目存放资源的路径相同，以避免因图床repo发布gh-pages造成网页资源路径冲突。
